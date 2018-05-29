@@ -1,0 +1,15 @@
+\\ Backslash (\)
+\' Single-Quote (')
+\" Double-Quote (")
+\a ASCII bell (BEL)
+\b ASCII backspace (BS)
+\f ASCII formfeed (FF)
+\n ASCII linefeed (LF)
+\N{name} Character named name in the Unicode database (unicode only)
+\r ASCII carriage return (CR)
+\t ASCII horizontal tab (TAB)
+\uxxxx Character with 16-bit hex value xxxx (unicode only)
+\Uxxxxxxxxx Character with 32-bit hex value xxxxxxxxx (unicode only)
+\v ASCII vertical tab (VT)
+\ooo Character with octal value oo
+\xhh Character with hex value hh
